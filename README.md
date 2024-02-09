@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Toro</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Toro and editor of children's stories with A.I.</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
 - 🔭 I’m currently working on **Freelance**
