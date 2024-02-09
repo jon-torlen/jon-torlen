@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Toro and editor of children's stories with A.I.</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack developer and editor of children's stories with A.I.</h3>
 
 - 🔭 I’m currently working on **Freelance**
 
@@ -9,7 +9,18 @@
 
 - 💬 Ask me about **Go, Laravel, Node,C++, React, Html, Css**
 
-- 📫 How to reach me **tecnicoavilidoso2@gmail.com**
+- 📫 How to reach me **tecnicoavilidoso2@gmail.com - jodtll@gmail.com**
+  
+- 🚪 Address **Venezuela, Caracas,  Parroquia antimano 1010**
+
+- 📞 phone number +58 04168281493
+
+  <h3 align="center">To request a e-book created with A.I, enter this link and fill out the form</h3>
+  https://cadainfantil.blogspot.com/
+  or to my email
+  JODTLL@GMAIL.COM
+
+  🕵️‍♂️ <h2 align="center"> Note: The price of the ebokk you wish to request will vary with respect to its complexity.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
