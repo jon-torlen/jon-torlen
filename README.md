@@ -20,7 +20,7 @@
   or to my email
   JODTLL@GMAIL.COM
 
-  🕵️‍♂️ <h2 align="center"> Note: The price of the ebokk you wish to request will vary with respect to its complexity.</h2>
+  <h2 align="center"> 🕵️‍♂️ Note: The price of the ebokk you wish to request will vary with respect to its complexity.</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
